@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+config.json
+logs/
+projetos/
+imagens_templates/
+dist/
+build/
+*.spec.bak

@@ -1,0 +1,10 @@
+# Dependências de execução (Windows 10/11, Python 3.12)
+pyautogui==0.9.54
+pynput==1.7.7
+pillow>=10.0
+numpy>=1.26
+opencv-python-headless>=4.9
+pywebview>=5.0
+
+# Desenvolvimento (opcional)
+# pytest>=8.0
