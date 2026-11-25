@@ -22,6 +22,17 @@
 
 ---
 
+## 🆕 Novidades da v3.0.2
+
+- **Prévia visual na tela:** visualize com um ponto vermelho exatamente onde cada ação será executada, sem minimizar a janela.
+- **Copiar e colar coordenadas:** copie a posição de um passo e cole em outro com 1 clique.
+- **Reordenação por arrasta-e-solta:** arraste os passos diretamente na lista com mais fluidez.
+- **Fluxo de exemplo:** botão para criar uma automação de demonstração na primeira abertura.
+- **Som de abertura & visual Windows:** tema sonoro relaxante ao iniciar (configurável), fonte `Segoe UI` e escala ajustada.
+- **Privacidade & estabilidade:** textos digitados não são salvos em logs, acentuação ABNT2 corrigida na gravação, execução de scripts `.py` independentes e instalador ~17 MB mais leve.
+
+---
+
 ## 🚀 Como instalar (Windows 10 / 11)
 
 1. Acesse a página [**Releases**](https://github.com/wolly0x/el-gravador/releases/latest) e baixe o arquivo `*-setup.exe` mais recente.
