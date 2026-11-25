@@ -5,7 +5,7 @@
 **Automação visual rápida para Windows — grave, edite e execute tarefas repetitivas sem precisar programar.**
 
 [![Baixar Última Versão](https://img.shields.io/badge/Download-Última_Versão_(Windows_x64)-0d9488?style=for-the-badge&logo=windows)](https://github.com/wolly0x/el-gravador/releases/latest)
-[![Versão](https://img.shields.io/badge/Versão-3.0.1-1e293b?style=for-the-badge)](https://github.com/wolly0x/el-gravador/releases)
+[![Versão](https://img.shields.io/badge/Versão-3.0.2-1e293b?style=for-the-badge)](https://github.com/wolly0x/el-gravador/releases)
 
 </div>
 
