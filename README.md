@@ -5,7 +5,7 @@
 **Automação visual rápida para Windows — grave, edite e execute tarefas repetitivas sem precisar programar.**
 
 [![Baixar Última Versão](https://img.shields.io/badge/Download-Última_Versão_(Windows_x64)-0d9488?style=for-the-badge&logo=windows)](https://github.com/wolly0x/el-gravador/releases/latest)
-[![Versão](https://img.shields.io/badge/Versão-3.0.0-1e293b?style=for-the-badge)](https://github.com/wolly0x/el-gravador/releases)
+[![Versão](https://img.shields.io/badge/Versão-3.0.1-1e293b?style=for-the-badge)](https://github.com/wolly0x/el-gravador/releases)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 ## 🚀 Como instalar (Windows 10 / 11)
 
-1. Acesse a página [**Releases**](https://github.com/wolly0x/el-gravador/releases/latest) e baixe o arquivo `El.Gravador.18.Pro.Max_3.0.0_x64-setup.exe`.
+1. Acesse a página [**Releases**](https://github.com/wolly0x/el-gravador/releases/latest) e baixe o arquivo `*-setup.exe` mais recente.
 2. Execute o instalador.
    > **Nota do Windows SmartScreen:** durante a fase de testes, o instalador ainda não possui certificado digital pago. Se o Windows exibir *"O Windows protegeu o computador"*, clique em **Mais informações → Executar assim mesmo**.
 3. Abra o **El Gravador 18 Pro Max** pelo Menu Iniciar ou Área de Trabalho.
