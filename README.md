@@ -24,12 +24,11 @@
 
 ## 🆕 Novidades da v3.0.2
 
-- **Prévia visual na tela:** visualize com um ponto vermelho exatamente onde cada ação será executada, sem minimizar a janela.
-- **Copiar e colar coordenadas:** copie a posição de um passo e cole em outro com 1 clique.
-- **Reordenação por arrasta-e-solta:** arraste os passos diretamente na lista com mais fluidez.
-- **Fluxo de exemplo:** botão para criar uma automação de demonstração na primeira abertura.
-- **Som de abertura & visual Windows:** tema sonoro relaxante ao iniciar (configurável), fonte `Segoe UI` e escala ajustada.
-- **Privacidade & estabilidade:** textos digitados não são salvos em logs, acentuação ABNT2 corrigida na gravação, execução de scripts `.py` independentes e instalador ~17 MB mais leve.
+- **Motor nativo Windows & instalador mais leve:** substituição completa do `pynput` por hooks Win32 próprios, scripts `.py` exportados 100% independentes e instalador reduzido de ~72 MB para **55 MB**.
+- **Gravação ABNT2 corrigida:** composição correta de acentos mortos (`á`, `ã`, `ê`, `ü`) e fim do travamento quando o `Shift` é solto antes da letra.
+- **Visual Windows & novo som relaxante:** fonte padrão `Segoe UI` (`15px`), novo som calmo ao iniciar (estilo felt-piano/harpa) com opção de ligar/desligar e botão **Testar som** em Configurações.
+- **Fluxo de exemplo & correções na UI:** botão **Fluxo de exemplo** na tela inicial, correção do **Capturar da tela** no Gerenciador de Templates, correção do **Abrir pasta** ao gerar `.py` e nova tela **Licença e Sobre…** (Trial Ilimitado).
+- **Privacidade & segurança reforçadas:** textos digitados não são gravados em logs, screenshots de erro/diagnóstico desativados por padrão (opt-in), política CSP estrita, proteção de pastas, `FailSafe` inviolável e ferramentas de dev ocultas na versão final.
 
 ---
 
