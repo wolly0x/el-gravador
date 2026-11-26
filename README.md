@@ -5,7 +5,7 @@
 **Automação visual rápida para Windows — grave, edite e execute tarefas repetitivas sem precisar programar.**
 
 [![Baixar Última Versão](https://img.shields.io/badge/Download-Última_Versão_(Windows_x64)-0d9488?style=for-the-badge&logo=windows)](https://github.com/wolly0x/el-gravador/releases/latest)
-[![Versão](https://img.shields.io/badge/Versão-3.0.5-1e293b?style=for-the-badge)](https://github.com/wolly0x/el-gravador/releases)
+[![Versão](https://img.shields.io/badge/Versão-3.0.6-1e293b?style=for-the-badge)](https://github.com/wolly0x/el-gravador/releases)
 
 </div>
 
@@ -22,7 +22,13 @@
 
 ---
 
-## 🆕 Novidades da v3.0.5
+## 🆕 Novidades da v3.0.6
+
+- **Atalhos globais isolados do navegador:** `F9` e `F10` durante a gravação (e `F8` durante a execução) agora são consumidos pelo aplicativo sem vazar para o navegador em foco (evitando abrir menus ou atalhos da página).
+- **Botão verde do Modo Simulação:** corrigido o destaque visual do botão **Simular** na barra superior.
+- **Estabilidade do motor e `.py` exportados:** removida captura duplicada em `esperar_imagem` no código gerado, tratamento de falha transitória de captura em `imagem_desaparecer` (com pausa estendendo prazo) e proteção contra corrida ao finalizar gravação.
+
+### Destaques anteriores (v3.0.5)
 
 - **Versão real exibida após atualização:** o aplicativo agora lê a versão diretamente do binário Tauri (`get_app_version`), corrigindo o caso em que o rodapé e *Licença e Sobre* ainda exibiam a versão anterior após atualizar.
 - **Link para Patch Notes no atualizador:** adicionado botão **Ver patch notes** no modal de nova versão disponível.
