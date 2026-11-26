@@ -5,7 +5,7 @@
 **Automação visual rápida para Windows — grave, edite e execute tarefas repetitivas sem precisar programar.**
 
 [![Baixar Última Versão](https://img.shields.io/badge/Download-Última_Versão_(Windows_x64)-0d9488?style=for-the-badge&logo=windows)](https://github.com/wolly0x/el-gravador/releases/latest)
-[![Versão](https://img.shields.io/badge/Versão-3.0.4-1e293b?style=for-the-badge)](https://github.com/wolly0x/el-gravador/releases)
+[![Versão](https://img.shields.io/badge/Versão-3.0.5-1e293b?style=for-the-badge)](https://github.com/wolly0x/el-gravador/releases)
 
 </div>
 
@@ -22,7 +22,12 @@
 
 ---
 
-## 🆕 Novidades da v3.0.4
+## 🆕 Novidades da v3.0.5
+
+- **Versão real exibida após atualização:** o aplicativo agora lê a versão diretamente do binário Tauri (`get_app_version`), corrigindo o caso em que o rodapé e *Licença e Sobre* ainda exibiam a versão anterior após atualizar.
+- **Link para Patch Notes no atualizador:** adicionado botão **Ver patch notes** no modal de nova versão disponível.
+
+### Destaques anteriores (v3.0.4)
 
 - **Modo Simulação mais claro e seguro:** banner verde fixo no topo do fluxo e botão principal exibindo **Simular** quando ativo, além de isolamento total no motor (sem carregar controle real de mouse/teclado durante simulações).
 - **Execução real corrigida:** resolvido travamento ao alternar de **Simular** para **Executar** em modo real e adicionada detecção de janelas elevadas (Administrador/UAC) com orientação clara.
