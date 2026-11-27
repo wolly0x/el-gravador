@@ -5,7 +5,7 @@
 **Automação visual rápida para Windows — grave, edite e execute tarefas repetitivas sem precisar programar.**
 
 [![Baixar Última Versão](https://img.shields.io/badge/Download-Última_Versão_(Windows_x64)-0d9488?style=for-the-badge&logo=windows)](https://github.com/wolly0x/el-gravador/releases/latest)
-[![Versão](https://img.shields.io/badge/Versão-3.0.6-1e293b?style=for-the-badge)](https://github.com/wolly0x/el-gravador/releases)
+[![Versão](https://img.shields.io/badge/Versão-3.0.7-1e293b?style=for-the-badge)](https://github.com/wolly0x/el-gravador/releases)
 
 </div>
 
@@ -22,7 +22,14 @@
 
 ---
 
-## 🆕 Novidades da v3.0.6
+## 🆕 Novidades da v3.0.7
+
+- **Contrato EULA oficial:** adicionado `EULA.txt` ao aplicativo e ao instalador Windows.
+- **Digitação com acentos corrigida:** eliminada a duplicação de acentos soltos durante a gravação (como `"Relat´órios"` ou `"correç~ão"`).
+- **Desfazer (`Ctrl+Z`) e Refazer (`Ctrl+Y` / `Ctrl+Shift+Z`):** corrigido o bug que apagava todo o fluxo ao desfazer repetidamente e adicionado botão **Refazer** com histórico contínuo.
+- **Seleção de itens para exclusão:** novo modo **Selecionar** na barra do fluxo para marcar vários passos e excluí-los de uma vez.
+
+### Destaques anteriores (v3.0.6)
 
 - **Atalhos globais isolados do navegador:** `F9` e `F10` durante a gravação (e `F8` durante a execução) agora são consumidos pelo aplicativo sem vazar para o navegador em foco (evitando abrir menus ou atalhos da página).
 - **Botão verde do Modo Simulação:** corrigido o destaque visual do botão **Simular** na barra superior.
